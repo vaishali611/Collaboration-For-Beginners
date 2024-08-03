@@ -666,3 +666,7 @@
 - Bio: Student
 - Github: [T1rth1](https://github.com/T1rth1)
 
+#### Name: [Vaishali Gupta](https://github.com/vaishali611)
+- Place: Dehradun, India
+- Bio: A ML Enthusiast 
+- GitHub: [Vaishali Gupta](https://github.com/vaishali611)
